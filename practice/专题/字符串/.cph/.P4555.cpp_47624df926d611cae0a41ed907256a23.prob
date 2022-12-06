@@ -1,0 +1,1 @@
+{"name":"Local: P4555","url":"d:\\code\\practice\\专题\\字符串\\P4555.cpp","tests":[{"id":1665634742127,"input":"baacaabbacabb","output":"12"},{"id":1665640527249,"input":"abccbaaaab","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\practice\\专题\\字符串\\P4555.cpp","group":"local","local":true}

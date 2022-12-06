@@ -1,0 +1,1 @@
+{"name":"Local: P_1972_SDOI_2009_HH的项链","url":"d:\\code\\practice\\专题\\数据结构\\树状数组\\P_1972_SDOI_2009_HH的项链.cpp","tests":[{"id":1667287162281,"input":"6\n1 2 3 4 3 5\n3\n1 2\n3 5\n2 6","output":"2\n2\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\practice\\专题\\数据结构\\树状数组\\P_1972_SDOI_2009_HH的项链.cpp","group":"local","local":true}

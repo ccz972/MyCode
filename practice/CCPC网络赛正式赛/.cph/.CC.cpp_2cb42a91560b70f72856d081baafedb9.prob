@@ -1,0 +1,1 @@
+{"name":"Local: CC","url":"d:\\data\\Desktop\\CCPC网络赛正式赛\\CC.cpp","tests":[{"id":1662879025302,"input":"3\n6 3\n1 2\n499999999999999999 999999999999999998","output":"1 0\n1 1\n1 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\data\\Desktop\\CCPC网络赛正式赛\\CC.cpp","group":"local","local":true}

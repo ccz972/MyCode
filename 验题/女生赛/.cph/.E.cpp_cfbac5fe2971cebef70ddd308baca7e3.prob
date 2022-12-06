@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"d:\\code\\验题\\女生赛\\E.cpp","tests":[{"id":1669806123728,"input":"2\n5 3 4 5 5\n3 4 6 7 8\n5 4 4 5 5\n3 4 6 7 8","output":"YES\nNO"},{"id":1669807873229,"input":"1\n10 20 10 2 2\n0 101","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\验题\\女生赛\\E.cpp","group":"local","local":true}

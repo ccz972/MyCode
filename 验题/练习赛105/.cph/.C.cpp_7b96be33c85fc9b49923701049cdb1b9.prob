@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"d:\\code\\验题\\练习赛105\\C.cpp","tests":[{"id":1667282514317,"input":"8\n1\n2\n3\n4\n5\n6\n7\n8","output":""},{"id":1667283218155,"input":"6\n1\n1\n4\n5\n1\n4","output":"1 1\n1 1\n56 14\n210 42\n1 1\n56 14"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\验题\\练习赛105\\C.cpp","group":"local","local":true}

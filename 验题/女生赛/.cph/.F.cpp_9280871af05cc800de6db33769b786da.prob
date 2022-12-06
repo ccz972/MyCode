@@ -1,0 +1,1 @@
+{"name":"Local: F","url":"d:\\code\\验题\\女生赛\\F.cpp","tests":[{"id":1669866863098,"input":"3\n0 3 3 0 3 0 3 3 3\n1 0 7 7 6 0 0 1 6\n0 2 2 7 7 2 7 0 5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\验题\\女生赛\\F.cpp","group":"local","local":true}

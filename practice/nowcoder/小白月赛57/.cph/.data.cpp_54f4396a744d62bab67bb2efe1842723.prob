@@ -1,0 +1,1 @@
+{"name":"Local: data","url":"d:\\code\\practice\\nowcoder\\小白月赛57\\data.cpp","tests":[{"id":1663643013223,"input":"6\n1 1 0\n5 1 3\n0 0 0\n2 4 5\n2 0 2\n1547748756 100 111","output":"NO\nYES\nYES\nNO\nYES\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\practice\\nowcoder\\小白月赛57\\data.cpp","group":"local","local":true}

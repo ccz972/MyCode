@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\code\\验题\\牛客挑战赛64\\A.cpp","tests":[{"id":1665394018146,"input":"5\n0 7\n1 2\n3 4\n2 5\n1 5\n4 3\n1 4\n2 4","output":"0\n1\n6\n6\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\验题\\牛客挑战赛64\\A.cpp","group":"local","local":true}

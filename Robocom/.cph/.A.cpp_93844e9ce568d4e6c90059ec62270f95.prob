@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\data\\Desktop\\Robocom\\A.cpp","tests":[{"id":1659939117487,"input":"10\n3 4 5 6 33 45 49 70 90 100","output":"18 62\n85 129"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\data\\Desktop\\Robocom\\A.cpp","group":"local","local":true}

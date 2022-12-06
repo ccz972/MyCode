@@ -1,0 +1,1 @@
+{"name":"Local: c","url":"d:\\code\\Codeforces\\contest\\1726\\c\\c.cpp","tests":[{"id":1662477294953,"input":"1\n9\n((()))((()))((()))","output":""},{"id":1662477511039,"input":"1\n10\n()(())((()))()((()))","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\Codeforces\\contest\\1726\\c\\c.cpp","group":"local","local":true}

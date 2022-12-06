@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"d:\\code\\practice\\Train\\齐鲁工业大学第四届程序设计竞赛\\C.cpp","tests":[{"id":1667028000961,"input":"4 4\n4\n1 2 1\n1 2 2\n1 2 3\n0 0 0","output":"1 2 3\n2 1 1\n2 2 3\n1 1 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\practice\\Train\\齐鲁工业大学第四届程序设计竞赛\\C.cpp","group":"local","local":true}

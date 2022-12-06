@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"d:\\code\\百度之星\\初赛1\\a.cpp","tests":[{"id":1661579281823,"input":"1\n5\n0 1 2 3 3\n1 0 1 2 2\n2 1 0 3 3\n3 2 3 0 4\n3 2 3 4 0","output":"4\n1 2\n2 3\n2 4\n2 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\百度之星\\初赛1\\a.cpp","group":"local","local":true}

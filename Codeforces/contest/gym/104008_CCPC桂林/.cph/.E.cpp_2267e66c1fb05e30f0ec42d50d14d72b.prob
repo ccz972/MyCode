@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"d:\\code\\Codeforces\\contest\\gym\\104008_CCPC桂林\\E.cpp","tests":[{"id":1667355607538,"input":"3\n1 0 1 4\n0 1 0 9\n0 0 2 2","output":"2 0\n1 1\n-1 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\Codeforces\\contest\\gym\\104008_CCPC桂林\\E.cpp","group":"local","local":true}

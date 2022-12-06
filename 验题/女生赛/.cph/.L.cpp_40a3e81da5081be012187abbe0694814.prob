@@ -1,0 +1,1 @@
+{"name":"Local: L","url":"d:\\code\\验题\\女生赛\\L.cpp","tests":[{"id":1669819625739,"input":"4 1\n1 2 3 3\n1 2\n2 3\n2 4\n4\n1\n2\n3\n4\n","output":"2\n2\n1\n1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\验题\\女生赛\\L.cpp","group":"local","local":true}

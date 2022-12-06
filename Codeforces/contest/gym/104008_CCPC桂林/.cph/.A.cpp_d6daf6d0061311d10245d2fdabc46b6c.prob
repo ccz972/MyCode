@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\code\\Codeforces\\contest\\gym\\104008_CCPC桂林\\A.cpp","tests":[{"id":1667351379211,"input":"5\n..L..\n","output":"C.L.C\n"},{"id":1667351382623,"input":"2\n..","output":"CC"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\Codeforces\\contest\\gym\\104008_CCPC桂林\\A.cpp","group":"local","local":true}

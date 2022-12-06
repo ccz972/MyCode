@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\code\\practice\\ATcoder\\abc276\\A.cpp","tests":[{"id":1667649424895,"input":"abcdaxayz","output":"7"},{"id":1667649643878,"input":"bcbbbz","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\practice\\ATcoder\\abc276\\A.cpp","group":"local","local":true}

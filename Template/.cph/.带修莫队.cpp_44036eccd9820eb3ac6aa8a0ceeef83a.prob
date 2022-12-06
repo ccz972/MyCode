@@ -1,0 +1,1 @@
+{"name":"Local: 带修莫队","url":"d:\\code\\Template\\带修莫队.cpp","tests":[{"id":1666798589399,"input":"6 5\n1 2 3 4 5 5\nQ 1 4\nQ 2 6\nR 1 2\nQ 1 4\nQ 2 6","output":"4\n4\n3\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\Template\\带修莫队.cpp","group":"local","local":true}

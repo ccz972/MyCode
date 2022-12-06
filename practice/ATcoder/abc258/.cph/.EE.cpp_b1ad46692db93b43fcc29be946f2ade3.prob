@@ -1,0 +1,1 @@
+{"name":"Local: EE","url":"d:\\code\\practice\\ATcoder\\abc258\\EE.cpp","tests":[{"id":1663812700505,"input":"3 2 5\n3 4 1\n1\n2\n","output":"2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\practice\\ATcoder\\abc258\\EE.cpp","group":"local","local":true}

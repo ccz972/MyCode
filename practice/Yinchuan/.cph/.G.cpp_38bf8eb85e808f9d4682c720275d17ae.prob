@@ -1,0 +1,1 @@
+{"name":"Local: G","url":"d:\\code\\practice\\Yinchuan\\G.cpp","tests":[{"id":1669985602578,"input":"5 6\nMULTIPLY 3 5 2\nMULTIPLY 2 5 3\nMAX 1 5\nMULTIPLY 1 4 2\nMULTIPLY 2 5 5\nMAX 3 5","output":"ANSWER 1\nANSWER 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\practice\\Yinchuan\\G.cpp","group":"local","local":true}

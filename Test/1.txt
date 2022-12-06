@@ -1,0 +1,136 @@
+{
+  "editor.bracketPairColorization.enabled": true,
+
+    // "editor.fontLigatures": null,
+    "python.pythonPath": "C:\\Users\\86150\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "workbench.iconTheme": "material-icon-theme",
+    "backgroundCover.randomImageFolder": "d:\\background",
+    "backgroundCover.imagePath": "d:\\background\\1.jpg",
+    "backgroundCover.opacity": 0.5,
+    // "editor.fontFamily": "Fira Code",
+    "editor.fontFamily": "Fira Code, JetBrains Mono,  \"微软雅黑\"", 
+    "editor.fontLigatures": true, // 设置连字字体 即 <= 合并
+    // "editor.fontFamily": "Fira Code",
+    // "editor.fontFamily": "Fira Code, JetBrains Mono,  \"微软雅黑\", Consolas, 'Courier New', monospace",
+    "editor.fontWeight": "400",
+    //括号着色
+    
+    "settingsSync.ignoredExtensions": [
+    
+    
+
+        
+    ],
+
+  
+
+    "code-runner.executorMap": {
+      // "javascript": "node",
+      // "java": "cd $dir && javac $fileName && java $fileNameWithoutExt",
+      // "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+      "cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt -O2 -std=c++17 && $dir$fileNameWithoutExt",
+      
+    },
+    //<----------------------->
+    //文件读入
+    // "code-runner.executorMap": 
+    // "code-runner.executorMap": {//-DLOCAL 
+    //     "cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt -O2 -std=c++17 -DLOCAL  && $dir$fileNameWithoutExt < D:/code/cpp/cf/1626/1.in > D:/code/cpp/cf/1626/1.out",
+    //     // "javascript": "node",
+    //     // "java": "cd $dir && javac $fileName && java $fileNameWithoutExt",
+    //     // "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        
+        
+    //     // "php": "php",
+    //     // "python": "python -u",
+        
+    // },
+
+
+    //<----------------------->
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "code-runner.runInTerminal": true,
+    "python.defaultInterpreterPath": "C:\\Users\\86150\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "workbench.colorTheme": "City Lights", //主题
+    
+    //------------------
+
+    //tag 缩进          
+    // "editor.tabSize": 4,
+    //↓ 文件信息 生成
+    "fileheader.Author": "Nanfeng1997",
+    "fileheader.LastModifiedBy": "Nanfeng1997",
+    
+
+    // "C_Cpp.updateChannel": "Insiders",
+    "cph.general.defaultLanguage": "cpp",
+    "cph.general.useShortCodeForcesName": true,
+    "cph.general.defaultLanguageTemplateFileLocation": "D:\\code\\cpp\\template\\template.cpp",
+    "cph.language.c.Args": "-O2",
+    "masmtasm.ASM.emulator": "msdos player",
+    "masmtasm.ASM.MASMorTASM": "MASM",
+    "latex-workshop.view.pdf.viewer": "browser",
+    "cph.language.cpp.Args": "-std=c++17",
+    "cmake.configureOnOpen": true,
+    "c-cpp-compile-run.cpp-compiler": "D:\\gcc\\mingw64\\bin\\g++.exe",
+    "cph.language.cpp.SubmissionCompiler": "GNU G++20 11.2.0 (64 bit, winlibs)",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 0,
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "C_Cpp.default.cStandard": "c17",
+    "C_Cpp.default.cppStandard": "c++20",
+    "editor.fontSize": 15,
+    "luogu.defaultLanguage": "C++17",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "editor.largeFileOptimizations": false,
+    "liveshare.connectionMode": "relay",
+
+    
+    
+    // "editor.fontFamily": "JetBrains Mono, Fira code", //, JetBrains Mono, 微软雅黑, Consolas
+    // "editor.tokenColorCustomizations": {
+    //     "functions": "#808080",
+    // },
+    /*
+    //字体颜色
+    
+    "editor.tokenColorCustomizations": {
+        "keywords" : "#ff9090", //关键字
+        "variables": "#ffc549", //变量名
+        "strings": "#88ff84",
+        "numbers": "#ff97d4",
+        "textMateRules": [
+            {
+                "scope": "keyword.other.unit",
+                "settings": {
+                    "foreground": "#00d9ff",
+                    // "fontStyle": "bold"
+                }
+            },
+            {
+                "scope": "meta.parens.cpp",
+                "settings": {
+                    "foreground": "#dfdfdf",
+                    // "fontStyle": "bold"
+                }
+            },
+            {
+                "scope": "meta.head.function.definition.cpp",
+                "settings": {
+                    "foreground": "#dfdfdf",
+                    // "fontStyle": "bold"
+                }
+            },
+        ]
+    }
+    */
+
+}

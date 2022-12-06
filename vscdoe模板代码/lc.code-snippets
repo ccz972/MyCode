@@ -1,0 +1,26 @@
+{
+	"ACM-model": {
+		"prefix": "lc",
+		"body": [
+			"#define fi first    ",
+			"#define se second    ",
+			"#define pb push_back",
+			"#define mk make_pair",
+			"#define len(a) (int)a.size()",
+			"#define mod(x) ((x) % MOD)",
+			"#define lowbit(x) (x&-x)",
+			"#define LL long long",
+			"#define fix(a) fixed << setprecision(a) ",
+			"#define debug(x) cout<<#x\" ----> \"<<x<<endl",
+			"#define rep(i, b, s) for(register int i = (b); i <= (s); ++i)",			 
+			"#define pre(i, b, s) for(register int i = (b); i >= (s); --i)",
+			"#define all(v) (v).begin(),(v).end()",
+			"#define leng(v) ((int)v.size())",
+			"const int INF = INT_MAX;",
+			"const LL INFF = INT64_MAX;",
+			"const int MOD = 1e9 + 7; //// 998244353",
+		],
+		"description": "init cf model"
+	},
+	}
+	

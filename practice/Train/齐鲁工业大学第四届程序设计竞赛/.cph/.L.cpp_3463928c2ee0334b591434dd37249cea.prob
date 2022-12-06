@@ -1,0 +1,1 @@
+{"name":"Local: L","url":"d:\\code\\practice\\Train\\齐鲁工业大学第四届程序设计竞赛\\L.cpp","tests":[{"id":1667026017499,"input":"2 23 12 62 5 2\n06:03:60 06:04:21\n06:04:26 06:05:19","output":"178"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\practice\\Train\\齐鲁工业大学第四届程序设计竞赛\\L.cpp","group":"local","local":true}

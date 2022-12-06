@@ -1,0 +1,19 @@
+{
+	"atc-model": {
+		"prefix": "date",
+		"body": [
+			"/***************************************************",
+			"",
+			"@File    : $TM_FILENAME",					
+			"@Time    : $CURRENT_YEAR/$CURRENT_MONTH/$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_SECOND",
+			"@Author  : Nanfeng1997 ",
+			"@Url     : https://www.cnblogs.com/c972937/",
+			"",
+			"奇迹会发生在那些相信并为之拼尽全力的人身上 !",
+			"***************************************************/",
+			"",
+		],
+		"description": "The head of file"
+	},
+}
+

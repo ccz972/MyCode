@@ -1,0 +1,5 @@
+FUCHK
+5
+
+
+Running Time : 203489ms

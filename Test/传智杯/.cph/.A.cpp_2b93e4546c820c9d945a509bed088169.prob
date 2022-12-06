@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\code\\Test\\传智杯\\A.cpp","tests":[{"id":1669456990919,"input":"-1 2","output":"1"},{"id":1669457040243,"input":"0 -4","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\Test\\传智杯\\A.cpp","group":"local","local":true}

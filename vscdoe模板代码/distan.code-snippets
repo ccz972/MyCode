@@ -1,0 +1,14 @@
+{
+	"distan-model": {
+		"prefix": "distan",
+		"body": [
+			
+			"double echo(PDD p, PDD q) {",
+			"    double xx = p.x - q.x, yy = p.y - q.y;",
+			"    return sqrt(xx * xx + yy * yy);",
+			"}",		
+		],
+		"description": "distant of two points"
+	},
+	}
+	

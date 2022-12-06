@@ -1,0 +1,1 @@
+{"name":"Local: b","url":"d:\\code\\验题\\练习赛104\\b.cpp","tests":[{"id":1661498754284,"input":"4\n1 10\n5 4\n5 2\n3 1","output":"15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\验题\\练习赛104\\b.cpp","group":"local","local":true}

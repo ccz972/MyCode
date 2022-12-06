@@ -1,0 +1,1 @@
+{"name":"Local: DD","url":"d:\\data\\Desktop\\ICPC网络赛\\DD.cpp","tests":[{"id":1663395411883,"input":"5\n38 47\n57 86\n23 24\n72 83\n32 33\n","output":"-1\n68\n-1\n-1\n-1\n"},{"id":1663395425038,"input":"1\n100000000 1000000000","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\data\\Desktop\\ICPC网络赛\\DD.cpp","group":"local","local":true}

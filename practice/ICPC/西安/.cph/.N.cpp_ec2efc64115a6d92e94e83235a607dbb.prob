@@ -1,0 +1,1 @@
+{"name":"Local: N","url":"d:\\code\\practice\\ICPC\\西安\\N.cpp","tests":[{"id":1669561752442,"input":"5\n10000\n4\n1337\n0\n987654321\n6\n66837494128\n5\n7808652\n3\n","output":"1\n1337\n321\n344128\n7052\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\practice\\ICPC\\西安\\N.cpp","group":"local","local":true}

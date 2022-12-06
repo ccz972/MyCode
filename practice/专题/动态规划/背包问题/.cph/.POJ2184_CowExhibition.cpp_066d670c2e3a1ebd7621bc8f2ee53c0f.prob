@@ -1,0 +1,1 @@
+{"name":"Local: POJ2184_CowExhibition","url":"d:\\code\\practice\\专题\\动态规划\\背包问题\\POJ2184_CowExhibition.cpp","tests":[{"id":1661948226943,"input":"5\n-5 7\n8 -6\n6 -3\n2 1\n-8 -5\n","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\practice\\专题\\动态规划\\背包问题\\POJ2184_CowExhibition.cpp","group":"local","local":true}
